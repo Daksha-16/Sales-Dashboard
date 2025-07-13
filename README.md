@@ -39,14 +39,14 @@ This project presents a comprehensive data analysis and visualization solution f
  🌟 Project Highlights with Visuals
 
 🎯 KPI Overview & Segmented Sales Insights
-
+![Dashboard Overview](SnapshotofDashboard1.png)
 - Central KPIs: 22K Orders, ₹1.6M in Sales, ₹175K Profit, Avg Ship Days: 4  
 - Sales visualized by Region, Payment Mode, Segment, and Shipping Type  
 - Map Visualization: Interactive heat map showing sales & profit by U.S. states  
 - Time-based analytics: Monthly trends in both sales and profit
 
 🔮 Time Series Forecasting (Next 15 Days)
-
+![Forecast View](SnapshotofDashboard2.png)
 - Applied Power BI’s Forecasting Tool  
 - Forecast horizon: 15 days forward from last recorded entry  
 - Displays confidence intervals, trend variations, and predicted spikes  
